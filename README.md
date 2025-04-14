@@ -1,0 +1,1 @@
+# strapi-jokes-cleaner-plugin
